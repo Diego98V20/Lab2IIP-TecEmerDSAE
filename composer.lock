@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "1186b95ed0137e591e3b6829cf8f4523",
+    "content-hash": "c0a3e6775ae6c26b7112917e18543d74",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -986,16 +986,16 @@
         },
         {
             "name": "jenssegers/mongodb",
-            "version": "v3.8.3",
+            "version": "v3.8.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/jenssegers/laravel-mongodb.git",
-                "reference": "09fcda8d21edfeb49416893bf916e13647d79f4b"
+                "reference": "a362df4f7fec5b91fea92b64273a531db34adfca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/jenssegers/laravel-mongodb/zipball/09fcda8d21edfeb49416893bf916e13647d79f4b",
-                "reference": "09fcda8d21edfeb49416893bf916e13647d79f4b",
+                "url": "https://api.github.com/repos/jenssegers/laravel-mongodb/zipball/a362df4f7fec5b91fea92b64273a531db34adfca",
+                "reference": "a362df4f7fec5b91fea92b64273a531db34adfca",
                 "shasum": ""
             },
             "require": {
@@ -1052,7 +1052,7 @@
             ],
             "support": {
                 "issues": "https://github.com/jenssegers/laravel-mongodb/issues",
-                "source": "https://github.com/jenssegers/laravel-mongodb/tree/v3.8.3"
+                "source": "https://github.com/jenssegers/laravel-mongodb/tree/v3.8.0"
             },
             "funding": [
                 {
@@ -1064,7 +1064,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-02-21T06:21:18+00:00"
+            "time": "2020-09-30T08:58:21+00:00"
         },
         {
             "name": "laravel/framework",
