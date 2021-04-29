@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ProductosController;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -36,3 +38,10 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+
+Route::get('/productos', [App\Http\Controllers\HomeController::class, 'index'])->name('productos.index');
+
+//Route::get('/Productos/index', [ProductosController::class, 'index']);
+
+Route::resource('productos', App\Http\Controllers\ProductosController::class);

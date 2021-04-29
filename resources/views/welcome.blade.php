@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>Parcial en Laravel</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -84,7 +84,15 @@
                                     Laravel News is a community driven portal and newsletter aggregating all of the latest and most important news in the Laravel ecosystem, including new package releases and tutorials.
                                 </div>
                             </div>
+
+                            <div class="title m-b-md">
+                                    Mi Parcial en Laravel
+                            </div>
+                            <div class="title m-b-md">
+                                    Diego Aquino
+                            </div>
                         </div>
+                        
 
                         <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-l">
                             <div class="flex items-center">
